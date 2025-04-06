@@ -2104,8 +2104,8 @@ const sendNotificationToUsers = async (notificationData) => {
       // Prepare anomaly data with both backend response and hardcoded values
       const anomalyData = {
         // Hardcoded values
-        name: "Abhinav",         // Hardcoded name
-        contactPhone: "123-456-7891",  // Hardcoded phone
+        name: "Krishna Naudiyal",         // Hardcoded name
+        contactPhone: "8779509901",  // Hardcoded phone
         flagged: false,                // Initially false
         
         // Data from backend response
